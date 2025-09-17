@@ -59,7 +59,7 @@ export default function Index() {
       <header className="bg-white/80 backdrop-blur-sm sticky top-0 z-50 border-b border-border">
         <div className="container mx-auto px-4 py-4">
           <nav className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-primary">Елена Викторовна</h1>
+            <h1 className="text-2xl font-bold text-[#3366ff]">Ольга Валерьевна</h1>
             <div className="hidden md:flex space-x-6">
               <a href="#about" className="text-muted-foreground hover:text-primary transition-colors">Обо мне</a>
               <a href="#methods" className="text-muted-foreground hover:text-primary transition-colors">Методики</a>
