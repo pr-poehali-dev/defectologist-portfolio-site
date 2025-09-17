@@ -227,7 +227,7 @@ export default function Index() {
                   <Icon name="Phone" size={24} />
                 </div>
                 <h3 className="font-semibold">Телефон</h3>
-                <p>+7 (912) 345-67-89</p>
+                <p>+7 (902) 548-62-21</p>
               </div>
               <div className="flex flex-col items-center space-y-2">
                 <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
