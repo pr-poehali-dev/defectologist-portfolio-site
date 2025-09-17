@@ -234,20 +234,18 @@ export default function Index() {
                   <Icon name="Mail" size={24} />
                 </div>
                 <h3 className="font-semibold">Email</h3>
-                <p>elena.smirnova@mail.ru</p>
+                <p>olia.onishenko@yandex.ru</p>
               </div>
               <div className="flex flex-col items-center space-y-2">
                 <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
                   <Icon name="MapPin" size={24} />
                 </div>
                 <h3 className="font-semibold">Адрес</h3>
-                <p>г. Москва, ул. Речная, 15</p>
+                <p>г. Усть-Илимск, ул. Верхняя, 15</p>
               </div>
             </div>
             <Separator className="my-8 bg-white/20" />
-            <p className="text-white/80 mb-6">
-              Готова помочь вашему ребенку достичь новых высот в развитии речи и общения
-            </p>
+            <p className="text-white/80 mb-6">Готова помочь вашему ребенку достичь новых высот в развитии </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button variant="secondary" size="lg">
                 <Icon name="MessageCircle" size={20} className="mr-2" />
