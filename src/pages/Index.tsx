@@ -80,9 +80,7 @@ export default function Index() {
                 <Icon name="GraduationCap" size={80} className="text-primary" />
               </div>
             </div>
-            <h1 className="text-5xl font-bold mb-6 text-gray-800 animate-fade-in">
-              Елена Викторовна Смирнова
-            </h1>
+            <h1 className="text-5xl font-bold mb-6 text-gray-800 animate-fade-in">Ольга Валерьевна Онищенко </h1>
             <p className="text-xl text-gray-600 mb-4 animate-fade-in">
               Учитель-дефектолог с 15-летним опытом работы
             </p>
